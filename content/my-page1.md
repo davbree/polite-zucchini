@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: lorem-ipsum.
 excerpt: lorem-ipsum
 layout: page
 ---
